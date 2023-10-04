@@ -8,7 +8,7 @@ import controller.DoctorManagerProgram;
  *
  * @author Administrator
  */
-public class NewClass {
+public class Main {
     public static void main(String[] args) {
         new DoctorManagerProgram().run();
     }
